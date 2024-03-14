@@ -35,5 +35,4 @@ Rapid API Integration: We’ve integrated with Rapid API to access the GPT-4 mod
 👉 **Copy to Clipboard Functionality**: Enables users to easily share or store the summarized content by copying it to their clipboard.
 
 👉 **Advanced RTK Query API Requests**: Utilizes the advanced capabilities of Redux Toolkit (RTK) Query for making API requests. These requests fire conditionally based on specific criteria, optimizing data fetching and management.
-
 and many more, including code architecture and reusability 
